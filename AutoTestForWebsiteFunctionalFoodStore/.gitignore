@@ -1,0 +1,4 @@
+result/
+*.exe
+target/
+*.class

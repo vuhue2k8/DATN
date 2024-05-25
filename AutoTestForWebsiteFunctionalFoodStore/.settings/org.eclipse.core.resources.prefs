@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/Commons/CommonFunction.java=UTF-8
+encoding//src/Commons/Constant.java=UTF-8
+encoding//src/Interfaces/InterfaceCartManagement.java=UTF-8
+encoding//src/Interfaces/InterfaceContact.java=UTF-8
+encoding//src/Interfaces/InterfaceLogin.java=UTF-8
+encoding//src/Interfaces/InterfaceLoginAdmin.java=UTF-8
+encoding//src/Interfaces/InterfaceMyAccount.java=UTF-8
+encoding//src/Interfaces/InterfaceOrder.java=UTF-8
+encoding//src/Interfaces/InterfaceOrderManagement.java=UTF-8
+encoding//src/Interfaces/InterfaceProductDetail.java=UTF-8
+encoding//src/Interfaces/InterfaceRegister.java=UTF-8
+encoding//src/Interfaces/InterfaceUpdateAccountInfo.java=UTF-8
+encoding//src/TestCases/DeleteProductInCart.java=UTF-8
+encoding//src/TestCases/Search.java=UTF-8
